@@ -1,12 +1,12 @@
 # Fifa-Power-BI-visuals-1930-2014
 
-#World cup Stats & World Cup match details
+# World cup Stats & World Cup match details
 
-#pages
+# pages
 1. Home page contain World Cup Stats year wise.
 2. Matches contain World Cup Match details
 
-#charts
+# charts
 This visuals build using multiple charts
 1. Heararchy Slicer
 2. Slicer
