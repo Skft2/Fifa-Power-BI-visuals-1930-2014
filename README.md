@@ -16,3 +16,4 @@ This visuals build using multiple charts
 6. Button
 7. Text Box
 8. H-Bar chart
+9. Filled Map
